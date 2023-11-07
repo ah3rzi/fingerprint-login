@@ -29,6 +29,10 @@ body {
     position: relative;
     width: 100%;
 }
+.logo{
+    
+    max-height: 90px;
+}
 .login form h2{
     font-size: 2em;
     margin-bottom: 30px;
